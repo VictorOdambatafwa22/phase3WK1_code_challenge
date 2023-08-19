@@ -1,7 +1,6 @@
 
 def consonants(string):
 
-
     consonants = []
 
     alph=['a', 'b', 'c', 'd', 'e', 'f', 'g', 'h', 'i', 'j', 'k', 'l', 'm', 'n', 'o', 'p', 'q', 'r', 's', 't', 'u', 'v', 'w', 'x', 'y', 'z']
@@ -15,8 +14,8 @@ def consonants(string):
             consonants.append(char2)
 
 
-
-    print (max(consonants))      
+    print (max(consonants))    
+      
     return max(consonants)
    
     
