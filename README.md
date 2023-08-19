@@ -40,7 +40,7 @@ cd phase3WK1_code_challenge
     pipenv install
     pipenv shell
 
-4. Start the vscode cd ..:
+4. Start the vscode cd .:
 
 
 ### Usage
